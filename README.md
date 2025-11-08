@@ -85,17 +85,17 @@ Enterprise-grade dashboard system for team performance tracking and resource all
 - **Features:** Automated reporting, real-time metrics, data validation
 - [View Repository →](https://github.com/Rweg/workforce-analytics-dashboard-template)
 
-### 📊 Metrics Reporting Pipeline Template
-Webhook-based automated reporting system with REST API integration.
-- **Tech:** Python, REST APIs, Webhooks, SQL
-- **Features:** Event-driven architecture, data transformation, scheduled automation
-- [View Repository →](#)
+### 📊 Webhook Metrics Reporter Template
+Event-driven automated reporting system with REST API integration.
+- **Tech:** Python, Flask, REST APIs, Webhooks
+- **Features:** Event-driven architecture, data transformation, automated notifications
+- [View Repository →](https://github.com/Rweg/webhook-metrics-reporter-template)
 
 ### 🖼️ Computer Vision Analysis Template
 Image complexity and sparsity analysis framework.
 - **Tech:** Python, OpenCV, scikit-image
 - **Features:** Bitmap analysis, adaptive algorithms, performance metrics
-- [View Repository →](#)
+- [View Repository →](https://github.com/Rweg/computer-vision-analysis-template)
 
 ### 📝 Interactive Assessment Application Template
 Zero-dependency web application for interactive assessment workflows.
@@ -103,17 +103,11 @@ Zero-dependency web application for interactive assessment workflows.
 - **Features:** Interactive UI, local storage, responsive design, real-time updates
 - [View Repository →](https://github.com/Rweg/interactive-assessment-app-template)
 
-### 🔧 Google Apps Script Workflow Templates
+### 🔧 Google Apps Script Automation Templates
 Enterprise spreadsheet automation and web app framework.
 - **Tech:** Google Apps Script, HTML/CSS/JS
 - **Features:** HtmlService dialogs, Triggers, SpreadsheetApp API, custom UI
-- [View Repository →](#)
-
-### 🔌 SDK Integration Template
-Generic framework for SDK-based automation and workflow management.
-- **Tech:** Python, REST APIs, async processing
-- **Features:** Concurrent processing, error handling, data validation
-- [View Repository →](#)
+- [View Repository →](https://github.com/Rweg/google-apps-script-automation-templates)
 
 ---
 
