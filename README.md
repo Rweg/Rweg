@@ -83,7 +83,7 @@ engineering_domains = {
 Enterprise-grade dashboard system for team performance tracking and resource allocation.
 - **Tech:** Python notebooks, SQL, interactive widgets
 - **Features:** Automated reporting, real-time metrics, data validation
-- [View Repository →](#)
+- [View Repository →](https://github.com/Rweg/workforce-analytics-dashboard-template)
 
 ### 📊 Metrics Reporting Pipeline Template
 Webhook-based automated reporting system with REST API integration.
@@ -97,11 +97,11 @@ Image complexity and sparsity analysis framework.
 - **Features:** Bitmap analysis, adaptive algorithms, performance metrics
 - [View Repository →](#)
 
-### 📝 Interactive Grading Application Template
-Full-stack web application for assessment workflows.
+### 📝 Interactive Assessment Application Template
+Zero-dependency web application for interactive assessment workflows.
 - **Tech:** HTML5, CSS3, JavaScript (zero dependencies)
-- **Features:** Interactive UI, local storage, responsive design, drag-and-drop
-- [View Repository →](#)
+- **Features:** Interactive UI, local storage, responsive design, real-time updates
+- [View Repository →](https://github.com/Rweg/interactive-assessment-app-template)
 
 ### 🔧 Google Apps Script Workflow Templates
 Enterprise spreadsheet automation and web app framework.
