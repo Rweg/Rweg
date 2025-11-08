@@ -109,6 +109,12 @@ Enterprise spreadsheet automation and web app framework.
 - **Features:** HtmlService dialogs, Triggers, SpreadsheetApp API, custom UI
 - [View Repository →](https://github.com/Rweg/google-apps-script-automation-templates)
 
+### 🧪 QA Automation Pipeline Template
+Comprehensive quality assurance automation framework for data validation workflows.
+- **Tech:** Python, pandas, concurrent processing, pytest
+- **Features:** Smart validation algorithms, activity tracking, automated reporting, concurrent processing
+- [View Repository →](https://github.com/Rweg/qa-automation-pipeline-template)
+
 ---
 
 ## 📈 GitHub Stats
