@@ -1,146 +1,57 @@
-# 👋 Hi, I'm Toussaint Rwego
+# Toussaint Rwego
 
-**Electronics & Telecommunication Engineer | Multidisciplinary Systems Engineer**  
-📍 Kigali, Rwanda
+**Electronics and Telecommunication Engineer | Autonomy Data Operations | AI Data Quality | Technical Delivery**
 
-**Domains:** Embedded Systems • ML Operations • Software Development • Data Engineering
+Kigali, Rwanda
 
----
+I make complex technical work understandable, measurable, and repeatable. My experience connects electronics and field systems with UAV operations, multimodal perception-data quality, simulation-data readiness, workflow automation, and cross-functional delivery.
 
-## 🎯 About Me
+## What I Bring
 
-I'm an **Electronics & Telecommunication Engineer** with a diverse technical background spanning hardware and software systems. My career journey bridges **embedded systems engineering** (UAV operations, RF systems) with modern **software development** and **data engineering**.
+- **AI and perception data:** image, video, and 3D annotation operations; quality review; guideline and taxonomy development; issue resolution and handoff.
+- **Data and MLOps operations:** Python, SQL, Databricks, APIs, dataset validation, provenance, manifests, experiment comparisons, and operational readiness. I have operated Kubernetes jobs; I do not claim Kubernetes cluster-administrator ownership.
+- **Technical operations:** UAV launch/recovery, systems checks, preventive and corrective maintenance, field deployment, operator support, and safe escalation.
+- **Automation and tools:** JavaScript, HTML/CSS, Google Apps Script, Sheets, Git, reporting automation, and lightweight web applications.
+- **People and delivery:** technical coaching in a 30+ contributor operation, requirements translation, customer support, documentation, and stakeholder coordination.
 
-**What makes me unique:**
-- 🛠️ **Hands-on hardware experience**: UAV flight operations, systems maintenance, RF/telecommunications engineering
-- 💻 **Production software development**: Built automation systems supporting 30+ team members
-- 📊 **Data engineering & analytics**: Designed ETL pipelines, SQL analytics, and automated reporting
-- 🤖 **ML operations**: Data annotation workflows, quality metrics, computer vision analysis
-- 🌐 **Full-stack development**: Zero-dependency web applications, interactive dashboards
+## Selected Work
 
-I believe in building practical, production-grade solutions that bridge theory and real-world impact.
+### Professional work, described at a safe level
 
----
+My professional case studies cover multimodal data quality and team operations, simulation-data readiness and evaluation, reporting automation, UAV field operations, telecommunications testing, and solar field support. The portfolio uses original summaries only. It does not publish employer-owned code, data, screenshots, internal system names, customer information, or operational specifications. See [Professional Portfolio](PORTFOLIO.md).
 
-## 💼 What I Do
+### Personal projects
 
-```python
-engineering_domains = {
-    "embedded_systems": {
-        "hardware": ["UAV operations", "RF systems", "telecommunications"],
-        "experience": ["Flight operations", "Systems maintenance", "Field deployment"]
-    },
-    "ml_operations": {
-        "tools": ["Data annotation platforms", "Quality metrics", "Computer vision"],
-        "focus": ["Workflow automation", "QA pipelines", "Model data preparation"]
-    },
-    "software_development": {
-        "languages": ["Python", "JavaScript", "HTML/CSS"],
-        "specialties": ["Web applications", "Process automation", "API integrations"]
-    },
-    "data_engineering": {
-        "platforms": ["Cloud notebooks", "SQL databases", "ETL pipelines"],
-        "tools": ["Python (pandas, numpy)", "SQL", "Data visualization"],
-        "focus": ["Automated reporting", "Data validation", "Analytics dashboards"]
-    }
-}
-```
+- [Job Radar](https://rweg.github.io/job-radar/) — a source-linked opportunity tracker with career-intent, status, and Rwanda work-location eligibility filters.
+- [Studies Preparation](https://rweg.github.io/studies-preparation/) — a master's funding and application planner separating deadlines, eligibility, fees, and document preparation.
+- [Market Evidence](https://rweg.github.io/market-evidence/) — a public-source compensation and employer-evidence research tool that keeps salary evidence distinct from benefits signals.
+- [AI Engineering Learning](https://rweg.github.io/ai-engineering-learning/) — an interactive self-study course with labs, checks, and portfolio evidence tasks.
+- [Pelé](https://rweg.github.io/pele/) — an early research prototype for a Rwanda food-supply network, connecting demand, aggregation, preparation, distribution, and local-market assumptions.
+- [Kagoma Contributions App](https://github.com/Rweg/kagoma-bbc-management) — a mobile prototype exploring team contributions, expense review, and record-keeping. It is not presented as a deployed financial service.
 
----
+### Public learning tools and templates
 
-## 🛠️ Tech Stack
+- [Data Annotation Guide](https://github.com/Rweg/data-annotation-guide)
+- [QA Automation Pipeline Template](https://github.com/Rweg/qa-automation-pipeline-template)
+- [Google Apps Script Automation Templates](https://github.com/Rweg/google-apps-script-automation-templates)
+- [Webhook Metrics Reporter Template](https://github.com/Rweg/webhook-metrics-reporter-template)
+- [Computer Vision Analysis Template](https://github.com/Rweg/computer-vision-analysis-template)
+- [Workforce Analytics Dashboard Template](https://github.com/Rweg/workforce-analytics-dashboard-template)
+- [Interactive Assessment App Template](https://github.com/Rweg/interactive-assessment-app-template)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Templates are independent demonstrations of reusable patterns, not claims of customer deployments. Private and unfinished prototypes are intentionally not linked.
 
-### Frameworks & Libraries
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+## Engineering Foundation
 
-### Platforms & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- BSc (Hons) Engineering, Electronics and Telecommunication Engineering — University of Rwanda.
+- A2 technical secondary education, Computer Electronics — St. Kizito Technical High School.
+- University capstone: a team-built voice-controlled wheelchair proof of concept, connecting speech input, microcontroller logic, motor control, and testing. It demonstrated basic directional movement; it was not a certified or user-ready mobility device.
+- Additional study: a WorldQuant University deep-learning regression project on concrete-strength prediction, including data preparation, feature scaling, model tuning, and error analysis.
 
-### Domains
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge)
-![ML Ops](https://img.shields.io/badge/ML_Ops-00ADD8?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-009639?style=for-the-badge)
-![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge)
+## Languages
 
----
+Kinyarwanda (native) · English (fluent) · French (operational use) · Swahili (basic)
 
-## 📂 Featured Template Projects
+## Links
 
-> **Note:** These are generic, sanitized templates demonstrating architecture patterns and technical capabilities. All company-specific information has been removed.
-
-### 🎯 Workforce Management Dashboard Template
-Enterprise-grade dashboard system for team performance tracking and resource allocation.
-- **Tech:** Python notebooks, SQL, interactive widgets
-- **Features:** Automated reporting, real-time metrics, data validation
-- [View Repository →](https://github.com/Rweg/workforce-analytics-dashboard-template)
-
-### 📊 Webhook Metrics Reporter Template
-Event-driven automated reporting system with REST API integration.
-- **Tech:** Python, Flask, REST APIs, Webhooks
-- **Features:** Event-driven architecture, data transformation, automated notifications
-- [View Repository →](https://github.com/Rweg/webhook-metrics-reporter-template)
-
-### 🖼️ Computer Vision Analysis Template
-Image complexity and sparsity analysis framework.
-- **Tech:** Python, OpenCV, scikit-image
-- **Features:** Bitmap analysis, adaptive algorithms, performance metrics
-- [View Repository →](https://github.com/Rweg/computer-vision-analysis-template)
-
-### 📝 Interactive Assessment Application Template
-Zero-dependency web application for interactive assessment workflows.
-- **Tech:** HTML5, CSS3, JavaScript (zero dependencies)
-- **Features:** Interactive UI, local storage, responsive design, real-time updates
-- [View Repository →](https://github.com/Rweg/interactive-assessment-app-template)
-
-### 🔧 Google Apps Script Automation Templates
-Enterprise spreadsheet automation and web app framework.
-- **Tech:** Google Apps Script, HTML/CSS/JS
-- **Features:** HtmlService dialogs, Triggers, SpreadsheetApp API, custom UI
-- [View Repository →](https://github.com/Rweg/google-apps-script-automation-templates)
-
-### 🧪 QA Automation Pipeline Template
-Comprehensive quality assurance automation framework for data validation workflows.
-- **Tech:** Python, pandas, concurrent processing, pytest
-- **Features:** Smart validation algorithms, activity tracking, automated reporting, concurrent processing
-- [View Repository →](https://github.com/Rweg/qa-automation-pipeline-template)
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rweg&show_icons=true&theme=dark&hide_border=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rweg&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🌍 Languages
-
-- **Kinyarwanda** - Native
-- **English** - Fluent
-- **French** - Fluent  
-- **Swahili** - Basic
-
----
-
-## 📫 Let's Connect
-
-I'm passionate about building systems that solve real problems. Whether it's embedded systems, data pipelines, or full-stack applications, I enjoy working across the technology stack.
-
-**Interested in collaborating?** Feel free to explore my template repositories or reach out to discuss engineering challenges!
-
----
-
-*💡 All template repositories are designed to showcase architecture patterns and technical capabilities without company-specific information.*
-
+[GitHub repositories](https://github.com/Rweg?tab=repositories) · [Professional Portfolio](PORTFOLIO.md)
