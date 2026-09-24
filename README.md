@@ -27,6 +27,7 @@ My professional case studies cover multimodal data quality and team operations, 
 - [Market Evidence](https://rweg.github.io/market-evidence/) — a public-source compensation and employer-evidence research tool that keeps salary evidence distinct from benefits signals.
 - [AI Engineering Learning](https://rweg.github.io/ai-engineering-learning/) — an interactive self-study course with labs, checks, and portfolio evidence tasks.
 - [Pelé](https://rweg.github.io/pele/) — an early research prototype for a Rwanda food-supply network, connecting demand, aggregation, preparation, distribution, and local-market assumptions.
+- **NuruLink Care** *(private prototype; no public link)* — a multilingual, privacy-conscious health-information and human-referral concept. It is not a clinical service, and its referral channel is not presented as launched.
 - [Kagoma Contributions App](https://github.com/Rweg/kagoma-bbc-management) — a mobile prototype exploring team contributions, expense review, and record-keeping. It is not presented as a deployed financial service.
 
 ### Public learning tools and templates
